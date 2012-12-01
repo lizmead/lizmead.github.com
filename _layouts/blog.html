@@ -49,6 +49,17 @@
           <div id="content" class="span9">
             {{ content }}
           </div>
+          <nav class="span3">
+            <h3>Recent Posts</h3>
+            <hr />
+            <div id="posts">
+              {% for post in site.posts limit:10%}
+                <p><a href="{{ post.url }}">{{ post.title }}</a></p>
+              {% endfor %}
+              <hr>
+              <p>powered by <a href="https://github.com/mojombo/jekyll">jekyll</a></p>
+            </div>
+          </nav>
         </div>
       </div>
       <hr />

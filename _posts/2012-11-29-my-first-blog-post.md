@@ -9,6 +9,8 @@ title: My first blog post
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean odio risus, euismod at tincidunt vitae, rutrum ut tellus. Vestibulum vehicula condimentum dictum. Nunc at nisi erat. Curabitur nunc magna, laoreet ac sagittis quis, vestibulum dapibus libero. Donec ante nibh, imperdiet sed eleifend eget, rhoncus in dolor. Pellentesque velit ante, malesuada sit amet malesuada non, interdum non odio. Donec viverra velit sit amet nisi placerat dignissim. Praesent magna lacus, posuere vitae mollis non, accumsan ut tortor. Fusce nec justo mi. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi mattis, lacus eget feugiat ornare, mi libero commodo ligula, ut tristique lorem ante nec augue. Nulla sit amet ligula congue ligula semper posuere.
 
+<a href="http://www.flickr.com/photos/jamesthecat/8138795245/" title="IMG_0320 by floehopper, on Flickr"><img src="http://farm9.staticflickr.com/8332/8138795245_f63c25ef49.jpg" width="500" height="375" alt="IMG_0320"></a>
+
 ## Heading 1b
 
 Nam vehicula nibh dui. Proin consectetur lorem risus, nec dapibus est. Praesent laoreet odio nec orci consequat ut tincidunt libero ultrices. Etiam lacinia tincidunt eros ac eleifend. Cras scelerisque, ante a consectetur adipiscing, arcu neque molestie lacus, a aliquet libero sapien ut nisl. Nunc diam justo, dictum sit amet euismod eu, varius ut sapien. Aliquam in mi a arcu iaculis vehicula. Donec commodo pharetra mattis. Aenean volutpat sodales tortor at laoreet. Maecenas placerat convallis mauris, at consequat velit volutpat et.
